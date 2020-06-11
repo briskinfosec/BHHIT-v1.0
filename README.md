@@ -1,7 +1,9 @@
 # BHHIT v1.0
+<p align="center">
 <br>
 <img width="800" src="https://github.com/briskinfosec/BHHIT-v1.0/blob/master/images/screenshot.png" />
 <br>
+</p>
 
 ## Brisk Host Header Injection Tool
 An open-source Python-3x based automated Host-Header-Injection attack detector. Generally the main component of the tool is `hhi_check.py` file. Executing this by passing some arguments will display the results. This is a small automation tool, usually works in two ways, 
