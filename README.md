@@ -18,7 +18,7 @@ If you want new features, create an issue report and label it as enhancement Or 
 
 ## Credits:
 * ArulSelvar Thomas: [Founder and Director of BriskInfosec Technology and Consulting Pvt Ltd](https://in.linkedin.com/in/briskinfosec)
-* Karthik Balaji : Security Engineer
+* Karthik : Security Engineer
 
 ## :octocat: How to contribute
 All contributions are welcome, from code to documentation, to design suggestions, to bug reports.
