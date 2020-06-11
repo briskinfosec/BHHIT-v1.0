@@ -1,0 +1,4 @@
+scrapy
+requests
+argparse
+colorama
