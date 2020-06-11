@@ -11,7 +11,7 @@ An open-source Python-3x based automated Host-Header-Injection attack detector. 
 ***Note:*** This tool results may provide some false positives. 
 
 ## Documentation
-* https://github.com/karthib4l4ji/demo/wiki
+* https://github.com/briskinfosec/BHHIT-v1.0/wiki
 
 ## Updates
 If you want new features, create an issue report and label it as enhancement Or start a pull request on our repositories.
