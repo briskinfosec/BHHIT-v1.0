@@ -1,6 +1,6 @@
 # BHHIT v1.0
 <br>
-<img width="500" src="https://github.com/briskinfosec/BHHIT-v1.0/blob/master/images/screenshot.png" />
+<img width="800" src="https://github.com/briskinfosec/BHHIT-v1.0/blob/master/images/screenshot.png" />
 <br>
 
 ## Brisk Host Header Injection Tool
